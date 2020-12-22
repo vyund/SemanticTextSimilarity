@@ -1,5 +1,5 @@
 # CSDS497_SemanticTextSimilarity
-### Four model architectures for the Semantic Text Similarity task
+### Comparing four model architectures on the Semantic Text Similarity task
 
 ### Background:
 Semantic text similarity is a metric defined to measure the distance between sentences, documents, terms, etc. This distance is based on the semantic content or meaning of the items. This is estimated through statistical methods, and the idea of semantic relatedness has been approached through deep learning models. This project serves to implement and compare four deep learning model architectures on the semantic text similarity task.
