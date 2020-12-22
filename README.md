@@ -32,7 +32,7 @@ My extension of the 3 published architectures involves utilizing the siamese CNN
 ### Results:
 Results were gathered and averaged over 5 runs for each model architecture. Data is randomly split into  training/validation sets prior to training, and the test set remains constant. The reported results are the models predictive performance on the test set, based on the MSE, Pearson, and Spearman metrics. Optimal hyper-parameters are first found for each model, and are stored as default parameters in the code base. Parameters are found using grid search, and are deemed optimal if training loss plots do not show indication of over-fitting. These hyper-parameters are the same as what was given in model implementation sections.
 
-TODO
+![Results](/results.PNG)
 
 ### References:
 [1] Marco Marelli, Stefano Menini, Marco Baroni, Luisa Bentivogli, Raffaella Bernardi, and Roberto Zamparelli. The SICK (Sentences Involving Compositional Knowledge) dataset for relatedness and entailment. Zenodo, May 2014.
