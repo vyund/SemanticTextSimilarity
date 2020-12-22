@@ -7,7 +7,14 @@ Semantic text similarity is a metric defined to measure the distance between sen
 I investigate the performance of deep learning on the semantic text similarity task by exploring threepublished model architectures (Manhattan LSTM, Bidirectional LSTM, and CNN-LSTM), and extend my project by proposing my own modified model architecture (Bi-CNN-LSTM) that utilizes techniques taken from the three investigated models.
 
 ### Requirements:
-TODO
+* numpy 1.19.2
+* matplotlib 3.3.2
+* pandas 1.1.5
+* nltk 3.5
+* gensim 3.8.3
+* scikit-learn 0.23.2
+* scipy 1.5.2
+* keras 2.4.3
 
 ### Data:
 Two sentence relatedness datasets are used to train and evaluate model performance. Sentence relatedness is the task of determining how semantically similar two sentences are. 
