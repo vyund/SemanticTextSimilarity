@@ -1,4 +1,4 @@
-# CSDS497_SemanticTextSimilarity
+# SemanticTextSimilarity
 ### Comparing four model architectures on the Semantic Text Similarity task
 
 ### Background:
