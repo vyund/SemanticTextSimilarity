@@ -41,6 +41,9 @@ Results were gathered and averaged over 5 runs for each model architecture. Data
 
 ![Results](/results.PNG)
 
+### Next Steps:
+My experiments were conducted using data that was not cleaned. In the future, I would like to clean the input text using regex. I hypothesize that doing this will further boost performance for all models. I am curious to see how my own created model architecture will do on cleaned data.
+
 ### References:
 [1] Marco Marelli, Stefano Menini, Marco Baroni, Luisa Bentivogli, Raffaella Bernardi, and Roberto Zamparelli. The SICK (Sentences Involving Compositional Knowledge) dataset for relatedness and entailment. Zenodo, May 2014.
 
